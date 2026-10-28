@@ -6,24 +6,33 @@ Welcome to another day of Via Verse. Every day has a purpose, and we meet it wit
 Current focus: CAT exam · Attendance app · Understanding tutoring agents
 
 IN TODAY'S ISSUE
-01  Startup / top players: Pichai on AI agents (5 min)
+01  What experts say: Pichai on AI agents (5 min)
++   Startup study: Finshots → Ditto, content-to-commerce (6 min)
 02  Finance / markets: Tesla–SpaceX merger (4 min)
 03  AI learning · how it works: How VLMs see (10 min)
 +   Daily ritual: 5 vocab words (5 min)
-Total: ~24 min for everything · ~12 min essentials
+Total: ~30 min for everything · ~12 min essentials
 
 CAT COUNTDOWN
 32 days to go · CAT on Sun 29 Nov 2026. Today: one sectional + 5 words.
 
 TODAY'S THREE PICKS
 
-01 · STARTUP / TOP PLAYERS
+01 · WHAT EXPERTS SAY
 Sundar Pichai: a team of AI agents helps him run Google
 Business Insider · 22 Oct · 5 min read
 - One of the world's top CEOs describes using AI agents in his everyday work.
 - The same setup works at solo-founder scale, for example for VincereArc.
 Takeaway: Pick one recurring task this week (inbox triage, meeting prep) and hand it to an agent.
 Read → https://www.businessinsider.com/sundar-pichai-explains-how-ai-agents-help-him-run-google-2026-10
+
+STARTUP STUDY · FINTECH / INSURTECH
+Finshots → Ditto: the content-to-commerce route
+The Hindu BusinessLine · 1 May 2022 · 6 min read
+- Started (2019): three IIM-A grads skipped placements for a free plain-English finance newsletter; seed of ~₹4 cr from Zerodha's Rainmatter; grew to 5 lakh readers by word of mouth.
+- Makes money: Ditto Insurance (2021) earns insurer commissions on health/term policies sold via free advisory; 60–70% of customers come from the newsletter, so marketing spend stays tiny.
+Takeaway: Trust first, product second: a free, useful channel can become your cheapest customer acquisition. Think about which audience VincereArc could serve for free.
+Read → https://www.thehindubusinessline.com/catalyst/the-content-to-commerceroute-to-woo-customers/article65366495.ece
 
 02 · FINANCE / MARKETS
 The Tesla–SpaceX merger explained
