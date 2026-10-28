@@ -1,0 +1,58 @@
+VIA VERSE · Wed 28 Oct 2026 · Daily brief (~15 min)
+
+Good morning, Vojeswitha.
+Welcome to another day of Via Verse. Every day has a purpose, and we meet it with focus and efficiency. Show up for your rituals, and the results follow.
+> Consistency beats intensity. Today only asks for your next honest hour.
+Current focus: CAT exam · Attendance app · Understanding tutoring agents
+
+IN TODAY'S ISSUE
+01  Startup / top players: Pichai on AI agents (5 min)
+02  Finance / markets: Tesla–SpaceX merger (4 min)
+03  AI learning · how it works: How VLMs see (10 min)
++   Daily ritual: 5 vocab words (5 min)
+Total: ~24 min for everything · ~12 min essentials
+
+CAT COUNTDOWN
+32 days to go · CAT on Sun 29 Nov 2026. Today: one sectional + 5 words.
+
+TODAY'S THREE PICKS
+
+01 · STARTUP / TOP PLAYERS
+Sundar Pichai: a team of AI agents helps him run Google
+Business Insider · 22 Oct · 5 min read
+- One of the world's top CEOs describes using AI agents in his everyday work.
+- The same setup works at solo-founder scale, for example for VincereArc.
+Takeaway: Pick one recurring task this week (inbox triage, meeting prep) and hand it to an agent.
+Read → https://www.businessinsider.com/sundar-pichai-explains-how-ai-agents-help-him-run-google-2026-10
+
+02 · FINANCE / MARKETS
+The Tesla–SpaceX merger explained
+Finshots · 26 Oct · 4 min read · Research, not financial advice.
+- Musk is consolidating his companies, which changes how investors can get exposure to them.
+- A crisp explainer written for Indian readers.
+Takeaway: Note one question about the deal's valuation and see whether it gets answered this week.
+Read → https://finshots.in/archive/tesla-spacex-merger-explained/
+
+03 · AI LEARNING · HOW IT WORKS
+Vision Language Models Explained
+Hugging Face blog · Edward Beeching · 10 min read
+- A typical VLM stacks an image encoder, a projector into the text embedding space, and a text decoder.
+- LLaVA first trained only the projector (CLIP encoder and decoder frozen), then unfroze the decoder.
+Takeaway: Sketch encoder → projector → decoder from memory, then check it against the post's diagram.
+Read → https://huggingface.co/blog/vlms
+
+DAILY RITUAL: VOCAB (5 min · streak day 1)
+Obfuscate: to make deliberately unclear. "The S-1 footnotes seemed to obfuscate the true cost of compute."
+Sanguine: optimistic, especially in a difficult situation. "Analysts stayed sanguine despite high crude prices."
+Perfunctory: done with minimal effort, as a routine. "A perfunctory due-diligence check missed the risk."
+Ephemeral: lasting a very short time. "IPO listing-day pops are often ephemeral."
+Recalcitrant: stubbornly uncooperative. "A recalcitrant regulator paused the chip-unit listing."
+Play on today's page → https://cursor.com/canvas/store-e4bdb74b-7284-4a0c-a4b9-6f30df735601/2cf5c30c-335c-4e68-8b70-b6c3329a3d16
+
+—
+See you tomorrow morning. Finance items are research, not financial advice.
+
+
+Take the quiz: https://cursor.com/canvas/store-e4bdb74b-7284-4a0c-a4b9-6f30df735601/2cf5c30c-335c-4e68-8b70-b6c3329a3d16
+
+Answers: Obfuscate A, Sanguine C, Perfunctory B, Ephemeral C, Recalcitrant B
